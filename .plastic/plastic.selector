@@ -1,0 +1,4 @@
+repository "2D_Shooter@Captain_Evidence@cloud"
+  path "/"
+    br "/main"
+    co "/main"
